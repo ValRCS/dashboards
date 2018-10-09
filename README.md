@@ -3,6 +3,8 @@
 [![Project Status: Inactive – The project has reached a stable, usable state but is no longer being actively developed; support/maintenance will be provided as time allows.](https://www.repostatus.org/badges/latest/inactive.svg)](https://www.repostatus.org/#inactive)
 [![PyPI version](https://badge.fury.io/py/jupyter_dashboards.svg)](https://badge.fury.io/py/jupyter_dashboards) [![Build Status](https://travis-ci.org/jupyter/dashboards.svg?branch=master)](https://travis-ci.org/jupyter/dashboards) [![Google Group](https://img.shields.io/badge/-Google%20Group-lightgrey.svg)](https://groups.google.com/forum/#!forum/jupyter)
 
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/ValRCS/dashboards/master)
+
 ## Overview
 
 The dashboards layout extension is an add-on for Jupyter Notebook. It lets you
